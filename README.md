@@ -11,6 +11,8 @@ The guests have their name and gift as a dictionary entry. If the guest didn't g
 
 To see the difference, download my guestDictionary.txt file and weddingThankYou.txt files and run the program.
 
-Check out PeteyAtes.txt (my dog!) and LexiEaster.txt, and take note of the difference if a gift is given or not.
+Check out PeteyAtes.txt (my dog!) and LexiEaster.txt, and take note of the difference for situations where a gift is given(Lexi) and not given (Petey).
 
 Lastly, the program creates an HTML file so that I can style the letters with CSS and print them out on letterhead.
+
+If you open the HTML file in a browser, take note that the full name at the top is only there for testing purposes.
