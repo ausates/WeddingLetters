@@ -1,0 +1,6 @@
+{ "Guests":{"Guest1": {"name": "Austin Ates", "gift": "Money"},
+"Guest2": {"name": "Lexi Easter", "gift": "Money"},
+"Guest3": {"name": "Mom Hanson", "gift": "dog"},
+"Guest4": {"name": "Petey Ates", "gift": "none"}
+}
+}
